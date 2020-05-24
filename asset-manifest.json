@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/managment-product-mobx-ant/static/css/main.64b499bd.chunk.css",
+    "main.js": "/managment-product-mobx-ant/static/js/main.7e11f84a.chunk.js",
+    "main.js.map": "/managment-product-mobx-ant/static/js/main.7e11f84a.chunk.js.map",
+    "runtime-main.js": "/managment-product-mobx-ant/static/js/runtime-main.400cfd4e.js",
+    "runtime-main.js.map": "/managment-product-mobx-ant/static/js/runtime-main.400cfd4e.js.map",
+    "static/css/2.4c6ee7a4.chunk.css": "/managment-product-mobx-ant/static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.e63a6d85.chunk.js": "/managment-product-mobx-ant/static/js/2.e63a6d85.chunk.js",
+    "static/js/2.e63a6d85.chunk.js.map": "/managment-product-mobx-ant/static/js/2.e63a6d85.chunk.js.map",
+    "index.html": "/managment-product-mobx-ant/index.html",
+    "precache-manifest.4f7e2a7a5f088efe536dedf91942d606.js": "/managment-product-mobx-ant/precache-manifest.4f7e2a7a5f088efe536dedf91942d606.js",
+    "service-worker.js": "/managment-product-mobx-ant/service-worker.js",
+    "static/css/2.4c6ee7a4.chunk.css.map": "/managment-product-mobx-ant/static/css/2.4c6ee7a4.chunk.css.map",
+    "static/css/main.64b499bd.chunk.css.map": "/managment-product-mobx-ant/static/css/main.64b499bd.chunk.css.map",
+    "static/js/2.e63a6d85.chunk.js.LICENSE.txt": "/managment-product-mobx-ant/static/js/2.e63a6d85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.400cfd4e.js",
+    "static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.e63a6d85.chunk.js",
+    "static/css/main.64b499bd.chunk.css",
+    "static/js/main.7e11f84a.chunk.js"
+  ]
+}
